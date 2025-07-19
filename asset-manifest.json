@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/fashionworld-dubai-2025/static/css/main.b659aa1b.css",
-    "main.js": "/fashionworld-dubai-2025/static/js/main.cb38f81d.js",
-    "static/media/Fashion1.jpg": "/fashionworld-dubai-2025/static/media/Fashion1.30384416cc6da7c1a245.jpg",
+    "main.css": "/fashionworld-dubai-2025/static/css/main.6fe0db53.css",
+    "main.js": "/fashionworld-dubai-2025/static/js/main.e56051c6.js",
+    "static/media/celebrity.jpg": "/fashionworld-dubai-2025/static/media/celebrity.cb366f4477546d5fbc12.jpg",
+    "static/media/img2.jpg": "/fashionworld-dubai-2025/static/media/img2.3afc947eac762dfbfdf7.jpg",
+    "static/media/designer.jpg": "/fashionworld-dubai-2025/static/media/designer.b5c660747fa6a8be313e.jpg",
+    "static/media/beauty.jpg": "/fashionworld-dubai-2025/static/media/beauty.e19810f6b72ed62243a2.jpg",
+    "static/media/culture.jpg": "/fashionworld-dubai-2025/static/media/culture.5caf97ffb578a3d3c98f.jpg",
+    "static/media/img3.jpg": "/fashionworld-dubai-2025/static/media/img3.2bb0674254a936c080ed.jpg",
+    "static/media/img1.jpg": "/fashionworld-dubai-2025/static/media/img1.f248473aac2887afd9db.jpg",
     "index.html": "/fashionworld-dubai-2025/index.html",
-    "main.b659aa1b.css.map": "/fashionworld-dubai-2025/static/css/main.b659aa1b.css.map",
-    "main.cb38f81d.js.map": "/fashionworld-dubai-2025/static/js/main.cb38f81d.js.map"
+    "main.6fe0db53.css.map": "/fashionworld-dubai-2025/static/css/main.6fe0db53.css.map",
+    "main.e56051c6.js.map": "/fashionworld-dubai-2025/static/js/main.e56051c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b659aa1b.css",
-    "static/js/main.cb38f81d.js"
+    "static/css/main.6fe0db53.css",
+    "static/js/main.e56051c6.js"
   ]
 }
