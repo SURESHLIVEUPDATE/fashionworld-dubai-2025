@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fashionworld-dubai-2025/static/css/main.b659aa1b.css",
+    "main.js": "/fashionworld-dubai-2025/static/js/main.cb38f81d.js",
+    "static/media/Fashion1.jpg": "/fashionworld-dubai-2025/static/media/Fashion1.30384416cc6da7c1a245.jpg",
+    "index.html": "/fashionworld-dubai-2025/index.html",
+    "main.b659aa1b.css.map": "/fashionworld-dubai-2025/static/css/main.b659aa1b.css.map",
+    "main.cb38f81d.js.map": "/fashionworld-dubai-2025/static/js/main.cb38f81d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b659aa1b.css",
+    "static/js/main.cb38f81d.js"
+  ]
+}
