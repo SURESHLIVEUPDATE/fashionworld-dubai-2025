@@ -15,6 +15,12 @@ body {
   position: relative;
 }
 
+.hero1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
 .hero-overlay {
   text-align: center;
   background: rgba(0, 0, 0, 0.5);
